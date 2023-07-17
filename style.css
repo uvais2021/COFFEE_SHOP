@@ -454,7 +454,7 @@ footer {
         display: none;
     }
     .aboutContainer figure {
-        height: 500px;
+        height: 400px;
         width: 100%;
         aspect-ratio: 3/4;
         background-position: center;
@@ -478,9 +478,7 @@ footer {
         color: var(--black);
     }
     form{
-        display: flex;
-        align-items: center;
-        justify-content: center;
+       
         margin: 0 auto;
         text-align: center;
     }
